@@ -5,7 +5,7 @@
 	},
 	"env": "development",
 	"operatingSystem":"linux",
-	"operatingSystemComment":"One of: 'windows', 'mac', 'linux'",
+	"operatingSystemComment":"One of: Linux",
 	"forever": 0,
 	"foreverOptions": {
 		"logfile": "forever.log"
